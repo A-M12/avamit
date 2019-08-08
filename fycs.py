@@ -1,5 +1,5 @@
-cn=input('Enter Name:')
-units=eval(input('Enter no. of units consumed:'))
+cn=input('Enter Name=')
+units=eval(input('Enter no. of units consumed='))
 dc=50
 if units>500:
     charge=3000+dc
